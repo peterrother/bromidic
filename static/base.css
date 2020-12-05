@@ -1,0 +1,123 @@
+body {
+  background-color: #fff;
+  margin: 10px auto;
+  max-width: 490px;
+  font-family: 'Optima', 'Helvetica', sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+}
+
+a:hover {
+  
+}
+
+div#blog-title {
+  font-size: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  font-variant: small-caps;
+  padding: 5px 0 5px 17px;
+}
+
+div#blog-title a {
+  text-decoration: none;
+  border: none;
+}
+
+h1,h2,h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 a, h2 a, h3 a {
+  border: none;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: left;
+  line-height: 30px;
+}
+
+h1 a {
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3,h4,p {
+  margin: 0;
+  background-color: #fff;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+h4 {
+  font-size: 14px;
+}
+
+p {
+  font-size: 14px;
+  padding-top: 18px;
+  line-height: 22px;
+}
+
+cite {
+  font-style: normal;
+  font-size: 11px;
+}
+
+ul#blog-nav {
+  list-style-type: none;
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+
+ul#blog-nav li {
+	display: inline;
+}
+
+p.quote {
+  font-style: italic;
+}
+
+div {
+  background-color: #fff;
+}
+
+div#blog-head {
+}
+
+div#blog-title {
+}
+
+div#blog-content {
+  margin: 30px 20px auto;
+}
+
+div#entry-meta {
+  margin-top: 10px;
+}
+
+h2.entry-title a {
+  text-decoration: none;
+}
+
+div.entry-body h3 {
+  margin: 30px 0 auto;
+}
+
+span.amp {
+  font-weight: normal;
+  font-family: Baskerville, Palatino, 'Book Antiqua', serif;
+  font-style: italic;
+}

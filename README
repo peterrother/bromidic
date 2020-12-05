@@ -1,0 +1,11 @@
+bromidic is a no-frills static blog engine that uses the textile markup language
+(with Jason Samsa's python-textile generator). It was intended for my own blog
+but I've opened it up a bit so anyone can use.
+
+You'll have to configure two lines in blog/config.py before running 'make' in the
+root dir.
+
+I've included a few scripts for easily creating new blog posts. You'll find them
+in the root dir.
+
+More to come when I have time.

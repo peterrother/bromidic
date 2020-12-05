@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Peter Rother's Journal</title>
+    <subtitle>Life isn't so ennui anymore</subtitle>
+    <link href="{{ HOMEURL }}" />
+    <updated>{{ DATESTAMP }}</updated>
+    <id>tag:peterrother.com,2009-11-16:/2009/11/16/say-hello.html</id>
+    <author>
+        <name>Peter Rother</name>
+        <email>peter@peterrother.com</email>
+    </author>
+
+    <entry>
+        <title>{{ TITLE }}</title>
+        <link rel="alternate" type="text/html" href="{{ URL }}" />
+        <id>tag:peterrother.com,{{ TAG }}</id>
+        <published>{{ PUBLISHED }}T00:00:00</published>
+        <summary type="html">{{ BODY }}</summary>
+    </entry>
+</feed>
+
